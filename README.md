@@ -16,3 +16,11 @@ For citations, please use the reference below:
 Physics of Fluids (accepted, 2021).
 
 Taichi Nakamura provides no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
+
+# Requirements
+* Python 3.x  
+* keras  
+* tensorflow
+* sklearn
+* numpy
+* pandas
