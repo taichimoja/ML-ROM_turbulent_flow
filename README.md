@@ -21,7 +21,7 @@ For citations, please use the reference below:
 "Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow,"  
 Physics of Fluids (accepted, 2021).  
 
-Taichi Nakamura provides no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
+Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 
 # Requirements
 * Python 3.x  
