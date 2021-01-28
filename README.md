@@ -1,7 +1,13 @@
 # ML-ROM_turbulent_flow
 This repository contains the simple source codes of "Convolutional neural network and long short-term memory based reduced order surrogate for minimal turbulent channel flow," Physics of Fluids (accepted, 2021).(Preprint: [arxiv:2010.13351 \[physics.flu-dyn\]](https://arxiv.org/abs/2010.13351))
 
-![DNS_5_105_axis](https://user-images.githubusercontent.com/78074953/106081079-a69a9980-615b-11eb-9c0e-f6cbf5499e08.gif)
+DNS             |  ML-ROM
+:-------------------------:|:-------------------------:
+![DNS_5_105_axis](https://user-images.githubusercontent.com/78074953/106081079-a69a9980-615b-11eb-9c0e-f6cbf5499e08.gif)  |  ![ROM_1536](https://user-images.githubusercontent.com/78074953/106082050-57edff00-615d-11eb-94b2-e7f0e8482cd6.gif)
+
+<div style="text-align: center;">
+    Flow fields computed by direct numerical simulation (DNS) and ML-ROM.
+</div>
 
 # Informations
 Author: Taichi Nakamura ([Keio University](https://kflab.jp/ja/))
