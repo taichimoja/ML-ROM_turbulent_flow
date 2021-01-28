@@ -5,7 +5,7 @@ DNS             |  ML-ROM
 :-------------------------:|:-------------------------:
 ![DNS_5_105_axis](https://user-images.githubusercontent.com/78074953/106081079-a69a9980-615b-11eb-9c0e-f6cbf5499e08.gif)  |  ![ROM_1536](https://user-images.githubusercontent.com/78074953/106082050-57edff00-615d-11eb-94b2-e7f0e8482cd6.gif)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flow fields computed by direct numerical simulation (DNS) and predicted by ML-ROM.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flow fields computed by direct numerical simulation (DNS) and predicted by ML-ROM.
 
 # Informations
 Author: Taichi Nakamura ([Keio University](https://kflab.jp/ja/))
