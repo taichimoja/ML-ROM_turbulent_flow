@@ -7,7 +7,7 @@ DNS             |  ML-ROM
 
 <div style="text-align: center;">Flow fields computed by direct numerical simulation (DNS) and predicted by ML-ROM.</div>
 
-# Informations
+# Information
 Author: Taichi Nakamura ([Keio University](https://kflab.jp/ja/))
 
 This repository contains
