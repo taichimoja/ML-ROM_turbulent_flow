@@ -10,7 +10,7 @@ DNS             |  ML-ROM
 # Informations
 Author: Taichi Nakamura ([Keio University](https://kflab.jp/ja/))
 
-This repository consists
+This repository con
 
 1. Sample-code_CNN-AE.ipynb
 1. Sample-code_LSTM.ipynb
